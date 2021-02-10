@@ -1,4 +1,4 @@
-### Hi there 👋
+## LGD.HuaFEEng
 
 <!--
 **LGDHuaOPER/LGDHuaOPER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![我的github统计](https://github-readme-stats.anuraghazra1.vercel.app/api?username=LGDHuaOPER&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/LGDHuaOPER/LGDHuaOPER.github.io)
